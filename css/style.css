@@ -1,0 +1,10 @@
+
+#clock{
+    color:blueviolet;
+ font-weight: color ;
+  font-size: 70px;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
